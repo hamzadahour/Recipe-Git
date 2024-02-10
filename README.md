@@ -1,0 +1,1 @@
+I began learning to code a few months ago, starting with HTML & CSS. My first coding project was the 'Recipe Page Challenge' from Frontend Mentor. I'm eager to receive feedback to help me improve and grow.
